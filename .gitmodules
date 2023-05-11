@@ -1,0 +1,3 @@
+[submodule "jenkins-test-gitlab"]
+	path = jenkins-test-gitlab
+	url = https://github.com/shashanksharmaer104/jenkins-test-gitlab
